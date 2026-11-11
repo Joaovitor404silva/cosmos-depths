@@ -44,6 +44,8 @@ You need a desktop browser and a keyboard. Tested in Chromium-based browsers (Ch
 
 The game is written in C with [raylib](https://www.raylib.com) and compiled
 to WebAssembly with Emscripten. Its networking is a browser build of a
-serverless multiplayer SDK (WebRTC + Nostr). This repository only holds the
-built site served by GitHub Pages.
+serverless multiplayer SDK, [The Cosmos](https://github.com/Joaovitor404silva/the-cosmos)
+(WebRTC + Nostr in the browser). Game and SDK source, MIT licensed:
+[the-cosmos/examples/cosmos-depths](https://github.com/Joaovitor404silva/the-cosmos/tree/master/examples/cosmos-depths).
+This repository only holds the built site served by GitHub Pages.
 Third-party licences: [THIRD_PARTY_NOTICES.txt](THIRD_PARTY_NOTICES.txt).
