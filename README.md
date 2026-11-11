@@ -35,7 +35,7 @@ there is no relay server to fall back on.
 | arrows or WASD | move, bump to attack |
 | Q E Z C | diagonals |
 | Space | descend on `>` |
-| N | write a note for later runs |
+| N | leave a note for later runs: pick a phrase, a word and an ending (no free text) |
 | Esc | leave |
 
 You need a desktop browser and a keyboard. Tested in Chromium-based browsers (Chrome, Edge, Brave).
